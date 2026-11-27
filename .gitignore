@@ -1,0 +1,8 @@
+.direnv/
+.vscode/
+.idea/
+*.log
+*.tmp
+artifacts/
+secrets/
+.env

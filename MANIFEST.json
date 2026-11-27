@@ -1,0 +1,23 @@
+{
+  "project": "RAZStudio OS",
+  "specification_set": "Kiro three-document specification",
+  "baseline_date": "2026-11-27",
+  "documents": {
+    "docs/requirements/Requirements.md": {
+      "bytes": 22463,
+      "lines": 389,
+      "sha256": "28a675733e9d5fb9b3a9d68ba41582d3051da95385af31c57ae2ceeaf2ec363e"
+    },
+    "docs/architecture/design.md": {
+      "bytes": 51883,
+      "lines": 1039,
+      "sha256": "11e542843e8491fd819f86deb9b039251423328ccf46f2a1f8556ad63ab38187"
+    },
+    "docs/implementation/tasks.md": {
+      "bytes": 16804,
+      "lines": 339,
+      "sha256": "6f1a775a650d2f25ca7a7a9d84fafb96e40fdcc6af11bc8c5374911e061bd159"
+    }
+  },
+  "note": "These three documents collectively supersede the single-file MASTER.md for normal Kiro use. The consolidated MASTER.md is retained separately as an archive."
+}
